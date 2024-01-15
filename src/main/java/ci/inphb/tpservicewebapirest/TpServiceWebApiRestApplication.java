@@ -1,0 +1,14 @@
+package ci.inphb.tpservicewebapirest;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class TpServiceWebApiRestApplication {
+
+
+	public static void main(String[] args) {
+		SpringApplication.run(TpServiceWebApiRestApplication.class, args);
+	}
+
+}
